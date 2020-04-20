@@ -1,5 +1,3 @@
-# Homework Solution
-
 # Importing the libraries
 import torch
 from torch.autograd import Variable
